@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋, I'm Harsh Kumar Singh  <br>A Passionate MERN & Next.js Developer | 🌍 Based in New Delhi, India  <br><br>🔭 I’m currently working with MERN Stack & Next.js<br>🌱 I’m currently learning DevOps to enhance deployment & scalability  <br>💡 I love building scalable web applications and exploring new technologies</h2>
+<h2 align="left">Hi 👋, I'm Harsh Kumar Singh  <br>A Passionate MERN & Next.js Developer | 🌍 Based in New Delhi, India  <br><br>🔭 I am currently working with MERN Stack & Next.js<br>🌱 I’m currently learning DevOps to enhance deployment & scalability  <br>💡 I love building scalable web applications and exploring new technologies</h2>
 
 ###
 
